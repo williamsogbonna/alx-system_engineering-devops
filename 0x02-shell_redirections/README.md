@@ -1,1 +1,1 @@
-Display the first 10 lines
+a shell script that creates a file
