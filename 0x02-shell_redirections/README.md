@@ -1,1 +1,1 @@
-displays the 10 newest files
+Being unique is better than being perfect
