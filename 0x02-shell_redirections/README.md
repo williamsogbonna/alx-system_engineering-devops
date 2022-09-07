@@ -1,1 +1,1 @@
-What’s new
+No more javascript
